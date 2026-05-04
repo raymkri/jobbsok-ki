@@ -9,7 +9,7 @@ bedrifter på [brreg.no](https://www.brreg.no/finn-foretak/) eller som input i j
 
 | NACE-kode | Navn | Typiske stillingstitler |
 |-----------|------|------------------------|
-| `62.01` | Utvikling og produksjon av programvare | Programvareutvikler, systemarkitekt, DevOps-ingeniør |
+| `62.01` | Programmeringstjenester | Programvareutvikler, systemarkitekt, DevOps-ingeniør |
 | `62.02` | Konsulentvirksomhet tilknyttet informasjonsteknologi | IT-konsulent, løsningsarkitekt, prosjektleder IT |
 | `62.03` | Forvaltning og drift av IT-systemer | Systemingeniør, driftsingeniør, cloud-arkitekt |
 | `62.09` | Andre tjenester tilknyttet informasjonsteknologi | IT-rådgiver, sikkerhetsingeniør, dataingeniør |
@@ -39,8 +39,8 @@ bedrifter på [brreg.no](https://www.brreg.no/finn-foretak/) eller som input i j
 
 | NACE-kode | Navn | Typiske stillingstitler |
 |-----------|------|------------------------|
-| `35.11` | Produksjon av elektrisitet | Kraftingeniør, driftsingeniør energi |
-| `35.12` | Overføring av elektrisitet | Høyspentingeniør, nettingeniør |
+| `35.11` | Produksjon av elektrisitet fra ikke-fornybare kilder | Kraftingeniør, driftsingeniør energi |
+| `35.12` | Produksjon av elektrisitet fra fornybare kilder | Høyspentingeniør, nettingeniør |
 | `35.13` | Distribusjon av elektrisitet | Elektroingeniør, energirådgiver |
 | `35.14` | Handel med elektrisitet | Energianalytiker, kraftmarkedsanalytiker |
 | `35.30` | Damp- og varmtvannsforsyning | Energiingeniør, fjernvarmetekniker |
@@ -55,7 +55,7 @@ bedrifter på [brreg.no](https://www.brreg.no/finn-foretak/) eller som input i j
 | `42.22` | Bygging av sterkstrøms- og svakstrømsanlegg | Elektroingeniør, kraftlinjeingeniør |
 | `42.91` | Bygging av havne- og damanlegg | Maritim konstruktør, geotekniker |
 | `43.21` | Elektrisk installasjonsarbeid | Elektroingeniør, automatiseringsingeniør |
-| `43.22` | Rørleggerarbeid, ventilasjon og kjøleanlegg | VVS-ingeniør, klimaingeniør |
+| `43.22` | VVS-arbeid | VVS-ingeniør, klimaingeniør |
 
 ## C – Industri
 
@@ -92,8 +92,8 @@ bedrifter på [brreg.no](https://www.brreg.no/finn-foretak/) eller som input i j
 |-----------|------|------------------------|
 | `36.00` | Uttak, rensing og distribusjon av vann | VA-ingeniør, driftsIngeniør vann |
 | `37.00` | Oppsamling og behandling av avløpsvann | Prosessingeniør avløp, miljøingeniør |
-| `38.21` | Behandling og disponering av ikke-farlig avfall | Miljøingeniør, avfallsteknolog |
-| `39.00` | Miljøsanering og rensing | Miljøingeniør, forurensningstekniker |
+| `38.21` | Materialgjenvinning | Miljøingeniør, avfallsteknolog |
+| `39.00` | Miljøutbedring, opprydding og lignende aktivitet | Miljøingeniør, forurensningstekniker |
 
 ## O – Offentlig administrasjon
 
