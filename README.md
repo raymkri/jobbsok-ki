@@ -2,26 +2,35 @@
 
 Et Python-script som henter relevante arbeidsgivere innen en valgt bransje og region
 direkte fra [Brønnøysundregistrenes åpne API](https://data.brreg.no), og genererer
-en ferdig KI-prompt du kan bruke i ChatGPT, Claude eller Perplexity for å finne
-karrieresidene deres.
+en ferdig KI-prompt du kan bruke i ChatGPT, Claude eller Perplexity (eller en helt annen modell) for å finne
+karrieresidene deres. Det eneste kravet er at KI-modellen kan søke på nettet. 
 
 ---
 
-## To måter å bruke dette på
+## Tre måter å bruke dette på
 
-### Alternativ 1 — Last opp til ChatGPT (enklest, ingen installasjon)
+### Alternativ 1 — Send GitHub-lenken til din KI-modell (enklest)
+
+1. Be KI-modellen din besøke denne siden, lese scriptet og følge instruksjonene:
+2. Last opp filen og skriv:
+
+   > Gå til https://github.com/raymkri/jobbsok-ki, les scriptet og følg instruksjonene i det for å hjelpe meg finne arbeidsgivere.
+
+Forutsetter at KI-modellen din har nettilgang.
+
+---
+
+### Alternativ 2 — Last ned og gi filen til din KI-modell
 
 1. Last ned filen `jobbsok_brreg.py`
-2. Åpne [chatgpt.com](https://chatgpt.com) (krever nettilgang / søkefunksjon)
-3. Last opp filen og skriv:
+2. Last opp filen til din KI-modell og skriv:
 
-   > Les instruksjonene øverst i dette scriptet og hjelp meg finne arbeidsgivere
+ > Les instruksjonene øverst i dette scriptet og hjelp meg finne arbeidsgivere
 
-ChatGPT leser instruksjonene, søker i Brønnøysundregistrene og finner karrieresider — alt i én operasjon.
+Forutsetter at KI-modellen din har nettilgang.
 
----
 
-### Alternativ 2 — Kjør scriptet selv (Python 3.8+)
+### Alternativ 3 — Kjør scriptet selv (Python 3.8+)
 
 Ingen installasjon av eksterne pakker nødvendig.
 
