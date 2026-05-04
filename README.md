@@ -44,6 +44,7 @@ du kan lime inn i valgfritt KI-verktøy.
 ---
 
 ## Tilpass til din bransje og region
+## NB! Hvis du vil ha flere NACE kode eksempler kan du se her: NACE-koder.md
 
 Åpne `jobbsok_brreg.py` i et tekstredigeringsprogram og endre innstillingene øverst:
 
